@@ -24,4 +24,5 @@ Not yet Implementet Options:
 BB's Infinite Fusion Mod Menu (https://github.com/BuezliBueb/BB-s-Infinite-Fusion-Mod-Menu/)
 
 ## Installing/Uninstalling:
-Just drag the Data folder into you Folder where Game.exe is located
+<p>Just drag the Data folder into you Folder where Game.exe is located</p>
+<p>To uninstall, remove the Folder Data/Scripts/998_mods/005_BB_Abilityrandomizer</p>
