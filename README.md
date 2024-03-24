@@ -17,6 +17,7 @@ This mod comes with a Mod Menu Integration where you can rerandomize the Abiliti
 
 Requirements:
 BB's Infinite Fusion Mod Menu
+https://github.com/BuezliBueb/BB-s-Infinite-Fusion-Mod-Menu/
 
 Installing/Uninstalling:
 Just drag the Data folder into you Folder where Game.exe is located
